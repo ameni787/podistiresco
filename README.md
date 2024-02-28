@@ -1,4 +1,4 @@
-<img src="http://www.podistiresco.it/images/logo.jpg" width="100">[Gruppo Podisti Resco](http://www.podistiresco.it/)
+<img src="media/logo-podisti-resco.jpg" width="100">[Gruppo Podisti Resco](http://www.podistiresco.it/)
 # Accesso alla pista di atletica
 
     Aggiornata al 28/02/2024
