@@ -1,5 +1,5 @@
 <img src="media/logo-podisti-resco.jpg" width="100">[Gruppo Podisti Resco 1909](http://www.podistiresco.it/)
-# Accesso alla pista di atletica
+# Accesso alla pista di atletica dello stadio di Cascia Reggello
 
     Aggiornata al 28/02/2024
 
